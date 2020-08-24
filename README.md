@@ -105,7 +105,7 @@ const sm3 = require('sm-crypto').sm3
 let hashData = sm3('abc') // 杂凑
 ```
 
-## sm4
+## sms4 (ECB 模式)
 
 ### 加密
 
